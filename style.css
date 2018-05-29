@@ -25,3 +25,8 @@ h3 {
     letter-spacing: 0.01em;
 
 }
+#abc{
+     position: absolute;
+    width: 102%;
+    bottom: 30px;
+}
